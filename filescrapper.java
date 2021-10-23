@@ -1,5 +1,7 @@
+import java.io.File;
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
+        // creates a file object
+    File file = new File("C:\\Users\\Guest User\\Desktop\\Java File\\List Method"); 
     }
 }
